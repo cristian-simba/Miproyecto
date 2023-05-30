@@ -1,0 +1,10 @@
+POO
+Clases: Es una función que tiene métodos y atributos. De esa clase se puede crear varios objetos con sus atributos y métodos
+Objeto: Se crean a partir de las clases, cada objeto puede tener su método y atributo 
+Método: Son las acciones que puede realizar nuestro objeto. Lleva a cabo una acción o tareas con los atributos.
+Atributo: Son todas las características que tiene nuestro objeto. Pueden tene características individuales para que se pueda diferenciar de otros objetos.
+Setters: Es un método que se usa para setear u establecer datos a nuestro objeto  
+Getters: Es un método que se usan para obtener la información que tienen nuestro objeto  
+Puntero: Es el espacio determinado de memoria donde se guarda una variable
+Constructor: Se utiliza para inicializar los métodos.
+GitHub: Es un repositorio que tienen como finalidad el registro de versiones de nuestro código, brinda un almacenamiento en la nube y trabajo colaborativo con git.
